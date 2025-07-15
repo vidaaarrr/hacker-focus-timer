@@ -9,6 +9,9 @@ A terminal-based Pomodoro-style focus timer with hacker vibes, green-on-black in
 
 Made with 💻 and ☕ by dara
 
+![screenshot](https://user-images.githubusercontent.com/12345678/abcdefghi123.png)
+
+
 ## 🔥 Features
 
 ✅ Retro hacker terminal interface (green text on black)  
