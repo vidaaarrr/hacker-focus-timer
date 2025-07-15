@@ -9,7 +9,7 @@ A terminal-based Pomodoro-style focus timer with hacker vibes, green-on-black in
 
 Made with 💻 and ☕ by dara
 
-![screenshot](https://user-images.githubusercontent.com/12345678/abcdefghi123.png)
+![screenshot]({7CFF6FE7-93D7-4193-9571-8936F0901EE9}.png)
 
 
 ## 🔥 Features
