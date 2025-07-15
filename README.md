@@ -19,6 +19,10 @@ Made with 💻 and ☕ by dara
 ✅ Displays a random motivational quote after each session  
 ✅ Shortcut-friendly (run via `.bat` or compile to `.exe`)
 
+📜 License
+
+MIT License — Free to use, modify, and share.
+Stay focused, code clean, and be legendary. 💚
 ---
 
 ## 🎬 Demo
